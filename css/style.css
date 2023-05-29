@@ -214,3 +214,10 @@ footer {
         max-width: initial;
     }
 }
+
+@media (max-width: 768px) {
+    .turmaweb img {
+        display: none;
+    }
+}
+
